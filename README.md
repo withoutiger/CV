@@ -24,7 +24,7 @@
 
 **项目源码**
 
-github.com/withoutiger， 点击查看效果预览
+github.com/withoutiger， https://withoutiger.github.io/CV/
 
 
 ## 个人评价
